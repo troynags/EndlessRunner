@@ -1,0 +1,1078 @@
+﻿Log file open, 04/16/18 01:51:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: EndlessRunner
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(479752193) SRandInit(479752193).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178775
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.158s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-K6BNC9F (192.168.60.103:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/Misc Games/Epic Games/Fortnite/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.16-06.51.44:994][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.16-06.51.44:994][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.16-06.51.45:001][  0]LogInit: Computer: DESKTOP-K6BNC9F
+[2018.04.16-06.51.45:001][  0]LogInit: User: troyn
+[2018.04.16-06.51.45:002][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.16-06.51.45:002][  0]LogInit: High frequency timer resolution =3.421877 MHz
+[2018.04.16-06.51.45:002][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.04.16-06.51.45:002][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.16-06.51.45:002][  0]LogMemory: Process Physical Memory: 275.79 MB used, 275.79 MB peak
+[2018.04.16-06.51.45:002][  0]LogMemory: Process Virtual Memory: 264.08 MB used, 264.08 MB peak
+[2018.04.16-06.51.45:002][  0]LogMemory: Physical Memory: 6606.47 MB used,  9737.56 MB free, 16344.03 MB total
+[2018.04.16-06.51.45:002][  0]LogMemory: Virtual Memory: 686.95 MB used,  9737.56 MB free, 134217728.00 MB total
+[2018.04.16-06.51.45:025][  0]LogInit: Using OS detected language (en-US).
+[2018.04.16-06.51.45:025][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.16-06.51.45:029][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.16-06.51.45:520][  0]LogStreaming: Display: Took  0.495s to EndInitTextLocalization.
+[2018.04.16-06.51.45:520][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.16-06.51.45:549][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.16-06.51.45:549][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.16-06.51.45:898][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.16-06.51.45:937][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.04.16-06.51.45:937][  0]LogD3D11RHI:       8088/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.16-06.51.45:940][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.16-06.51.45:940][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.16-06.51.45:940][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.16-06.51.45:958][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.16-06.51.45:958][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.16-06.51.45:958][  0]LogWindows: EnumDisplayDevices:
+[2018.04.16-06.51.45:958][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.04.16-06.51.45:958][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.16-06.51.45:958][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.16-06.51.45:959][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.16-06.51.45:959][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.16-06.51.45:959][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.04.16-06.51.45:959][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.16-06.51.45:959][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.16-06.51.45:959][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.04.16-06.51.45:983][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.16-06.51.45:983][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.16-06.51.45:983][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.16-06.51.46:009][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.16-06.51.46:055][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Intermediate/Shaders/WorkingDirectory/74804/).
+[2018.04.16-06.51.46:055][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/troyn/AppData/Local/Temp/UnrealShaderWorkingDir/ACF92E4E43D420DBE7BC09BC5542BA1F/'.
+[2018.04.16-06.51.46:306][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.16-06.51.46:318][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.16-06.51.46:330][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.16-06.51.46:343][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.16-06.51.46:356][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.16-06.51.46:369][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.16-06.51.46:382][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.16-06.51.46:394][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.16-06.51.46:400][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.16-06.51.46:413][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.16-06.51.46:425][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.16-06.51.46:437][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.16-06.51.46:449][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.16-06.51.46:461][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.16-06.51.46:473][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.16-06.51.46:498][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.16-06.51.46:498][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.16-06.51.46:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.16-06.51.46:512][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.16-06.51.46:547][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.16-06.51.46:559][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.16-06.51.46:571][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.16-06.51.46:583][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.16-06.51.46:595][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.16-06.51.46:607][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.16-06.51.46:607][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.16-06.51.46:723][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.16-06.51.46:723][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.16-06.51.46:723][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.16-06.51.47:400][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.16-06.51.47:475][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/troyn/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.16-06.51.47:476][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/troyn/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.16-06.51.47:476][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.16-06.51.47:476][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.16-06.51.47:476][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.16-06.51.47:476][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.16-06.51.47:491][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.16-06.51.47:504][  0]LogDerivedDataCache: Using Local data cache path C:/Users/troyn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.16-06.51.47:517][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.16-06.51.47:517][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.16-06.51.47:519][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.16-06.51.47:519][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.16-06.51.47:674][  0]LogAssetRegistry: FAssetRegistry took 0.0251 seconds to start up
+[2018.04.16-06.51.47:959][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.16-06.51.48:115][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.16-06.51.48:118][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.16-06.51.48:118][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.16-06.51.48:118][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.16-06.51.48:118][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.16-06.51.48:118][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.16-06.51.48:158][  0]LogNetVersion: EndlessRunner , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3621280811)
+[2018.04.16-06.51.48:641][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.068539 seconds
+[2018.04.16-06.51.48:646][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.16-06.51.48:646][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.16-06.51.48:646][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.16-06.51.50:574][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.16-06.51.50:615][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.16-06.51.51:007][  0]SourceControl: Source control is disabled
+[2018.04.16-06.51.51:007][  0]SourceControl: Source control is disabled
+[2018.04.16-06.51.51:029][  0]SourceControl: Source control is disabled
+[2018.04.16-06.51.51:051][  0]SourceControl: Source control is disabled
+[2018.04.16-06.51.51:635][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.16-06.51.51:884][  0]LogOcInput: OculusInput pre-init called
+[2018.04.16-06.51.52:006][  0]LogEngine: Initializing Engine...
+[2018.04.16-06.51.52:007][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.16-06.51.52:008][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.16-06.51.52:008][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.16-06.51.52:240][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.16-06.51.52:309][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-06.51.52:319][  0]LogInit: FAudioDevice initialized.
+[2018.04.16-06.51.52:398][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/troyn/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.16-06.51.52:409][  0]LogInit: Texture streaming: Enabled
+[2018.04.16-06.51.52:424][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.16-06.51.52:451][  0]LogInit: Transaction tracking system initialized
+[2018.04.16-06.51.52:471][  0]BlueprintLog: New page: Editor Load
+[2018.04.16-06.51.52:623][  0]LocalizationService: Localization service is disabled
+[2018.04.16-06.51.52:739][  0]LogConsoleResponse: Display: 
+[2018.04.16-06.51.53:007][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.16-06.51.53:007][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.16-06.51.53:007][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.16-06.51.53:007][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.16-06.51.53:007][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.16-06.51.53:437][  0]LogFileCache: Scanning file cache for directory 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/' took 0.01s
+[2018.04.16-06.51.53:437][  0]SourceControl: Source control is disabled
+[2018.04.16-06.51.53:574][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Misc Games/Epic Games/Fortnite/UE_4.19/FeaturePacks/StarterContent.upack)
+[2018.04.16-06.51.53:796][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.04.16-06.51.53:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.04.16-06.51.53:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.04.16-06.51.53:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.04.16-06.51.53:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.04.16-06.51.53:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.04.16-06.51.53:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.04.16-06.51.53:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.04.16-06.51.53:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.04.16-06.51.53:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.04.16-06.51.54:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.04.16-06.51.54:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.04.16-06.51.54:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.04.16-06.51.54:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.04.16-06.51.54:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.04.16-06.51.54:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.04.16-06.51.54:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.04.16-06.51.54:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.04.16-06.51.54:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Fire01.uasset"
+[2018.04.16-06.51.54:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.04.16-06.51.54:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.04.16-06.51.54:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.04.16-06.51.54:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Light01.uasset"
+[2018.04.16-06.51.54:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.04.16-06.51.54:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Light02.uasset"
+[2018.04.16-06.51.54:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.04.16-06.51.54:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.04.16-06.51.54:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.04.16-06.51.54:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.04.16-06.51.54:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.04.16-06.51.55:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.04.16-06.51.55:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.04.16-06.51.55:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.04.16-06.51.55:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.04.16-06.51.55:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Steam01.uasset"
+[2018.04.16-06.51.55:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.04.16-06.51.55:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.04.16-06.51.55:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.04.16-06.51.55:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.04.16-06.51.55:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.04.16-06.51.55:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.04.16-06.51.55:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.04.16-06.51.55:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.04.16-06.51.55:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.04.16-06.51.55:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.04.16-06.51.55:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.04.16-06.51.55:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.04.16-06.51.55:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.04.16-06.51.55:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.04.16-06.51.55:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.04.16-06.51.55:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.04.16-06.51.55:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.04.16-06.51.59:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.04.16-06.51.59:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.04.16-06.51.59:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.04.16-06.51.59:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.04.16-06.51.59:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.04.16-06.51.59:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Maps/StarterMap.umap"
+[2018.04.16-06.51.59:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.04.16-06.52.00:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.04.16-06.52.00:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.04.16-06.52.00:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.04.16-06.52.00:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.04.16-06.52.00:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.04.16-06.52.00:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.04.16-06.52.00:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.04.16-06.52.00:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.04.16-06.52.00:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.04.16-06.52.00:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.04.16-06.52.00:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.04.16-06.52.00:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.04.16-06.52.00:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.04.16-06.52.00:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.04.16-06.52.00:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.04.16-06.52.00:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.04.16-06.52.00:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.04.16-06.52.00:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.04.16-06.52.00:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.04.16-06.52.00:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.04.16-06.52.00:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.04.16-06.52.00:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.04.16-06.52.00:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.04.16-06.52.00:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.04.16-06.52.00:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.04.16-06.52.00:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.04.16-06.52.00:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.04.16-06.52.00:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.04.16-06.52.00:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.04.16-06.52.00:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.04.16-06.52.00:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.04.16-06.52.00:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.04.16-06.52.00:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.04.16-06.52.00:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.04.16-06.52.00:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.04.16-06.52.00:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.04.16-06.52.00:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.04.16-06.52.00:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.04.16-06.52.00:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.04.16-06.52.00:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.04.16-06.52.00:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.04.16-06.52.00:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.04.16-06.52.00:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.04.16-06.52.00:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.04.16-06.52.00:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.04.16-06.52.00:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.04.16-06.52.00:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.04.16-06.52.00:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.04.16-06.52.00:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.04.16-06.52.00:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.04.16-06.52.00:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.04.16-06.52.00:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.04.16-06.52.00:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.04.16-06.52.00:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.04.16-06.52.00:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.04.16-06.52.00:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.04.16-06.52.00:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.04.16-06.52.00:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.04.16-06.52.01:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.04.16-06.52.01:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.04.16-06.52.01:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.04.16-06.52.01:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.04.16-06.52.01:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.04.16-06.52.01:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.04.16-06.52.01:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Door.uasset"
+[2018.04.16-06.52.01:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.04.16-06.52.01:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.04.16-06.52.01:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.04.16-06.52.01:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.04.16-06.52.01:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.04.16-06.52.01:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.04.16-06.52.01:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.04.16-06.52.01:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.04.16-06.52.01:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.04.16-06.52.01:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.04.16-06.52.01:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.04.16-06.52.01:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.04.16-06.52.01:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.04.16-06.52.01:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.04.16-06.52.01:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.04.16-06.52.01:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.04.16-06.52.01:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.04.16-06.52.01:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.04.16-06.52.01:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.04.16-06.52.01:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.04.16-06.52.01:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.04.16-06.52.01:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.04.16-06.52.01:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.04.16-06.52.01:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.04.16-06.52.01:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.04.16-06.52.01:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.04.16-06.52.01:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.04.16-06.52.01:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.04.16-06.52.01:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.04.16-06.52.01:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.04.16-06.52.01:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.04.16-06.52.01:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.04.16-06.52.01:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.04.16-06.52.01:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.04.16-06.52.01:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.04.16-06.52.01:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.04.16-06.52.01:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.04.16-06.52.01:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.04.16-06.52.01:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.04.16-06.52.01:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.04.16-06.52.01:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.04.16-06.52.01:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.04.16-06.52.01:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.04.16-06.52.01:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.04.16-06.52.01:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.04.16-06.52.01:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.04.16-06.52.01:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.04.16-06.52.01:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.04.16-06.52.01:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.04.16-06.52.01:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.04.16-06.52.01:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.04.16-06.52.01:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.04.16-06.52.01:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.04.16-06.52.01:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.04.16-06.52.01:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.04.16-06.52.02:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.04.16-06.52.02:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.04.16-06.52.02:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.04.16-06.52.02:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.04.16-06.52.02:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.04.16-06.52.02:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.04.16-06.52.02:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.04.16-06.52.02:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.04.16-06.52.02:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.04.16-06.52.02:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.04.16-06.52.02:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.04.16-06.52.02:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.04.16-06.52.02:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.04.16-06.52.02:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.04.16-06.52.02:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.04.16-06.52.02:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.04.16-06.52.02:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.04.16-06.52.02:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.04.16-06.52.02:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.04.16-06.52.02:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.04.16-06.52.02:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.04.16-06.52.02:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.04.16-06.52.02:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.04.16-06.52.02:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.04.16-06.52.02:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.04.16-06.52.03:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.04.16-06.52.03:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.04.16-06.52.03:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.04.16-06.52.03:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.04.16-06.52.03:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.04.16-06.52.03:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.04.16-06.52.03:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.04.16-06.52.03:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.04.16-06.52.03:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.04.16-06.52.03:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.04.16-06.52.03:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.04.16-06.52.03:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.04.16-06.52.03:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.04.16-06.52.03:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.04.16-06.52.03:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.04.16-06.52.03:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.04.16-06.52.03:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.04.16-06.52.03:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.04.16-06.52.03:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.04.16-06.52.03:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.04.16-06.52.03:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.04.16-06.52.03:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.04.16-06.52.03:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.04.16-06.52.03:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.04.16-06.52.03:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.04.16-06.52.04:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.04.16-06.52.04:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.04.16-06.52.04:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.04.16-06.52.04:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.04.16-06.52.04:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.04.16-06.52.04:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.04.16-06.52.04:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.04.16-06.52.04:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.04.16-06.52.04:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.04.16-06.52.04:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.04.16-06.52.04:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.04.16-06.52.04:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.04.16-06.52.04:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.04.16-06.52.04:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.04.16-06.52.04:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.04.16-06.52.04:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.04.16-06.52.04:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.04.16-06.52.04:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.04.16-06.52.04:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.04.16-06.52.04:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.04.16-06.52.04:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.04.16-06.52.04:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.04.16-06.52.04:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.04.16-06.52.04:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.04.16-06.52.04:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.04.16-06.52.04:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.04.16-06.52.04:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.04.16-06.52.04:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.04.16-06.52.04:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.04.16-06.52.05:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.04.16-06.52.05:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.04.16-06.52.05:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.04.16-06.52.05:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.04.16-06.52.05:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.04.16-06.52.05:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.04.16-06.52.05:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.04.16-06.52.05:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.04.16-06.52.05:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.04.16-06.52.05:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.04.16-06.52.05:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.04.16-06.52.05:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.04.16-06.52.05:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.04.16-06.52.05:483][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2018.04.16-06.52.05:517][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.04.16-06.52.05:796][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.04.16-06.52.06:061][  0]LogSavePackage: Save=55.50ms
+[2018.04.16-06.52.06:061][  0]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/Floor_400x4004410345F4D4EB6BD44787B8A7FBDD9BA.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.04.16-06.52.06:077][  0]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.04.16-06.52.06:077][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.04.16-06.52.06:079][  0]Cmd: MAP LOAD FILE="C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.16-06.52.06:079][  0]LightingResults: New page: Lighting Build
+[2018.04.16-06.52.06:081][  0]MapCheck: New page: Map Check
+[2018.04.16-06.52.06:081][  0]LightingResults: New page: Lighting Build
+[2018.04.16-06.52.06:670][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [39.568928ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.04.16-06.52.07:011][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.16-06.52.07:231][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.16-06.52.07:265][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.16-06.52.07:338][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.884ms to complete.
+[2018.04.16-06.52.07:338][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.260
+[2018.04.16-06.52.07:420][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.16-06.52.07:421][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.16-06.52.07:901][  0]LogCollectionManager: Loaded 0 collections in 0.000791 seconds
+[2018.04.16-06.52.08:012][  0]LogFileCache: Scanning file cache for directory 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/Collections/' took 0.01s
+[2018.04.16-06.52.08:012][  0]LogFileCache: Scanning file cache for directory 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/Developers/troyn/Collections/' took 0.01s
+[2018.04.16-06.52.08:012][  0]LogFileCache: Scanning file cache for directory 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/Collections/' took 0.01s
+[2018.04.16-06.52.08:012][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.16-06.52.08:023][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2452 classes and 558 folders.
+[2018.04.16-06.52.08:091][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.16-06.52.08:153][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.16-06.52.08:188][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.16-06.52.08:533][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.16-06.52.08:535][  0]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.16-06.52.08:580][  0]LogSlate: Took 0.016389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.16-06.52.08:873][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2018.04.16-06.52.09:218][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.16-06.52.09:219][  0]LogLoad: (Engine Initialization) Total time: 26.68 seconds
+[2018.04.16-06.52.09:219][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.16-06.52.09:416][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.16-06.52.09:483][  1]LogAssetRegistry: Asset discovery search completed in 21.8295 seconds
+[2018.04.16-06.52.09:484][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.16-06.52.09:484][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2018.04.16-06.52.26:373][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-06.52.40:009][102]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.16-06.52.40:588][102]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.04.16-06.52.40:588][102]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RunCharacter.SKEL_RunCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.04.16-06.52.40:633][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2018.04.16-06.52.40:702][102]LogSavePackage: Save=67.11ms
+[2018.04.16-06.52.40:702][102]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/RunCharacter305468FE498866945D561BB4D13A75C9.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2018.04.16-06.52.40:706][102]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset
+[2018.04.16-06.52.40:716][102]LogSavePackage: Save=1.36ms
+[2018.04.16-06.52.40:716][102]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonCharacter799D83EE46E66DF5DE91628484DBE358.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.16-06.52.40:719][102]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.16-06.52.51:738][257]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.04.16-06.52.53:009][257]LogSlate: Took 0.010345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.16-06.52.53:484][258]LogSlate: Took 0.007668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.16-06.53.21:053][652]LogEditorTransaction: Undo Delete current selection
+[2018.04.16-06.53.28:363][258]LogEditorTransaction: Undo Delete current selection
+[2018.04.16-06.54.01:601][847]LogRenderer: Reallocating scene render targets to support 1616x1240 Format 10 NumSamples 1 (Frame:940).
+[2018.04.16-06.55.31:353][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-06.55.36:386][478]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.16-07.02.09:861][450]LogSavePackage: Save=120.92ms
+[2018.04.16-07.02.09:861][450]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonExampleMap_Auto1329A787A4FE9C57A8B7B92817BC84715.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.04.16-07.02.09:864][450]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.04.16-07.02.09:878][450]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.208
+[2018.04.16-07.02.09:878][450]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.208
+[2018.04.16-07.02.09:881][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2018.04.16-07.02.09:881][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2018.04.16-07.02.09:890][450]LogSavePackage: Save=4.84ms
+[2018.04.16-07.02.09:890][450]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonGameMode_Auto17C730ADB4A599E278C40969FF205B1C3.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto1.uasset'
+[2018.04.16-07.02.09:891][450]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto1.uasset
+[2018.04.16-07.02.09:892][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RunCharacter] ([1] browsable assets)...
+[2018.04.16-07.02.09:905][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter]
+[2018.04.16-07.02.09:905][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RunCharacter]
+[2018.04.16-07.02.09:941][450]LogSavePackage: Save=32.15ms
+[2018.04.16-07.02.09:941][450]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/RunCharacter_Auto1F62E87AA496477B8751785AD49AF03A2.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunCharacter_Auto1.uasset'
+[2018.04.16-07.02.09:944][450]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunCharacter_Auto1.uasset
+[2018.04.16-07.02.09:944][450]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.04.16-07.16.31:848][ 20]BlueprintLog: New page: Compile RunCharacter
+[2018.04.16-07.16.32:755][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2018.04.16-07.16.32:788][ 66]LogSavePackage: Save=27.47ms
+[2018.04.16-07.16.32:788][ 66]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/RunCharacter01EFDC9E4660F87D87587685C0F6CF7C.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2018.04.16-07.16.32:792][ 66]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset
+[2018.04.16-07.16.45:020][109]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-07.16.45:075][109]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.16.45:089][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-07.16.45:159][109]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 15, 2018, 9:16:45 PM)
+[2018.04.16-07.16.45:165][109]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.16-07.16.45:200][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034053s)
+[2018.04.16-07.16.45:201][109]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.16-07.16.45:201][109]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2018.04.16-07.16.45:201][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035700s)
+[2018.04.16-07.16.45:265][109]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-07.16.45:273][109]LogInit: FAudioDevice initialized.
+[2018.04.16-07.16.45:343][109]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.16-07.16.45:468][109]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.16-02.16.45
+[2018.04.16-07.16.45:480][109]LogWorld: Bringing up level for play took: 0.022769
+[2018.04.16-07.16.45:604][109]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.16-07.16.45:616][109]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.502
+[2018.04.16-07.16.45:632][109]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.16.53:908][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.16.53:988][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.17.00:420][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.16-07.19.30:565][435]LogSlate: Window 'Delete Variable' being destroyed
+[2018.04.16-07.20.06:211][139]LogSlate: Took 0.011171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.16-07.20.18:254][733]LogClass: Warning: Property NewVar_0 of NewVar_0 has a struct type mismatch (tag Transform != prop Rotator) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.04.16-07.21.31:966][ 58]LogSavePackage: Save=112.04ms
+[2018.04.16-07.21.31:966][ 58]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonExampleMap_Auto20B8EC2A44865901F94C119B511751669.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.04.16-07.21.31:969][ 58]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.04.16-07.21.31:970][ 58]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.149
+[2018.04.16-07.21.31:970][ 58]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2018.04.16-07.21.31:973][ 58]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RunCharacter] ([1] browsable assets)...
+[2018.04.16-07.21.31:984][ 58]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter]
+[2018.04.16-07.21.31:984][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RunCharacter]
+[2018.04.16-07.21.32:017][ 58]LogSavePackage: Save=31.14ms
+[2018.04.16-07.21.32:017][ 58]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/RunCharacter_Auto23C4B75E34850CE66F6D9E0A2446CF576.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunCharacter_Auto2.uasset'
+[2018.04.16-07.21.32:018][ 58]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunCharacter_Auto2.uasset
+[2018.04.16-07.21.32:019][ 58]LogFileHelpers: Auto-saving content packages took 0.047
+[2018.04.16-07.23.09:279][734]Cmd: TRANSACTION UNDO
+[2018.04.16-07.23.09:279][734]LogEditorTransaction: Undo Paste clipboard contents
+[2018.04.16-07.23.14:305][246]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter:EventGraph.K2Node_VariableGet_54 or K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter:EventGraph.K2Node_VariableGet_54
+[2018.04.16-07.23.14:305][246]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter:EventGraph.K2Node_IfThenElse_11 or K2Node_IfThenElse /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter:EventGraph.K2Node_IfThenElse_11
+[2018.04.16-07.23.14:305][246]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter:EventGraph.K2Node_VariableGet_61 or K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter:EventGraph.K2Node_VariableGet_61
+[2018.04.16-07.23.14:305][246]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter:EventGraph.K2Node_CallFunction_266 or K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter:EventGraph.K2Node_CallFunction_266
+[2018.04.16-07.23.14:306][246]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter:EventGraph.K2Node_VariableSet_47 or K2Node_VariableSet /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter:EventGraph.K2Node_VariableSet_47
+[2018.04.16-07.29.20:083][ 40]BlueprintLog: New page: Compile RunCharacter
+[2018.04.16-07.29.24:666][404]BlueprintLog: New page: Compile RunCharacter
+[2018.04.16-07.29.25:565][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2018.04.16-07.29.25:614][438]LogSavePackage: Save=43.39ms
+[2018.04.16-07.29.25:614][438]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/RunCharacter604FDD5A4EFF9BCC9C87C6960F95C087.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2018.04.16-07.29.25:616][438]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset
+[2018.04.16-07.29.30:457][728]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-07.29.30:481][728]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.29.30:481][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-07.29.30:481][728]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 15, 2018, 9:29:30 PM)
+[2018.04.16-07.29.30:481][728]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.16-07.29.30:498][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016113s)
+[2018.04.16-07.29.30:499][728]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.16-07.29.30:499][728]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2018.04.16-07.29.30:499][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017561s)
+[2018.04.16-07.29.30:531][728]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-07.29.30:539][728]LogInit: FAudioDevice initialized.
+[2018.04.16-07.29.30:577][728]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.16-07.29.30:579][728]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.16-02.29.30
+[2018.04.16-07.29.30:579][728]LogWorld: Bringing up level for play took: 0.001768
+[2018.04.16-07.29.30:587][728]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.473
+[2018.04.16-07.29.30:588][728]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.29.51:589][159]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.29.51:636][159]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.29.54:051][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.16-07.30.25:115][781]BlueprintLog: New page: Compile RunCharacter
+[2018.04.16-07.30.26:089][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2018.04.16-07.30.26:130][817]LogSavePackage: Save=39.09ms
+[2018.04.16-07.30.26:130][817]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/RunCharacter5C12EB6042A6112204259FAF67A50CF3.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2018.04.16-07.30.26:133][817]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset
+[2018.04.16-07.31.09:066][398]LogEditorViewport: Clicking on Actor (LMB): RunCharacter_C (ThirdPersonCharacter)
+[2018.04.16-07.31.09:780][418]LogEditorViewport: Clicking on Actor (LMB): RunCharacter_C (ThirdPersonCharacter)
+[2018.04.16-07.31.17:626][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.32.02:664][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.16-07.32.06:181][776]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2018.04.16-07.32.25:485][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.33.38:272][894]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.04.16-07.33.39:274][951]LogSavePackage: Save=129.85ms
+[2018.04.16-07.33.39:274][951]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonExampleMap584C2FD144FB880C4CCC4AA97F88EC32.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.16-07.33.39:278][951]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.16-07.33.39:309][951]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.283
+[2018.04.16-07.33.46:752][629]LogSavePackage: Save=134.06ms
+[2018.04.16-07.33.46:752][629]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonExampleMap756837BD4183FBFC77BB63BB4254C535.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.16-07.33.46:755][629]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.16-07.33.46:764][629]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.244
+[2018.04.16-07.33.52:510][954]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-07.33.52:520][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.33.52:521][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-07.33.52:521][954]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 15, 2018, 9:33:52 PM)
+[2018.04.16-07.33.52:521][954]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.16-07.33.52:536][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015609s)
+[2018.04.16-07.33.52:537][954]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.16-07.33.52:537][954]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2018.04.16-07.33.52:538][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016780s)
+[2018.04.16-07.33.52:575][954]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-07.33.52:583][954]LogInit: FAudioDevice initialized.
+[2018.04.16-07.33.52:614][954]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.16-07.33.52:616][954]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.16-02.33.52
+[2018.04.16-07.33.52:616][954]LogWorld: Bringing up level for play took: 0.001757
+[2018.04.16-07.33.52:617][954]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.503
+[2018.04.16-07.33.52:618][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.34.02:019][948]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.34.02:057][948]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.34.11:127][531]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2018.04.16-07.34.20:551][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.34.20:552][977]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-07.34.20:560][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.34.20:560][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-07.34.20:560][977]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 15, 2018, 9:34:20 PM)
+[2018.04.16-07.34.20:560][977]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.16-07.34.20:575][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014649s)
+[2018.04.16-07.34.20:576][977]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.16-07.34.20:576][977]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2018.04.16-07.34.20:576][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015843s)
+[2018.04.16-07.34.20:616][977]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-07.34.20:624][977]LogInit: FAudioDevice initialized.
+[2018.04.16-07.34.20:652][977]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.16-07.34.20:654][977]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.16-02.34.20
+[2018.04.16-07.34.20:655][977]LogWorld: Bringing up level for play took: 0.001985
+[2018.04.16-07.34.20:656][977]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.541
+[2018.04.16-07.34.20:656][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.34.30:606][150]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.34.30:643][150]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.36.23:346][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2018.04.16-07.36.23:381][510]LogSavePackage: Save=31.95ms
+[2018.04.16-07.36.23:381][510]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/RunCharacterC1A7608C4A142349756E1084F420E59B.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2018.04.16-07.36.23:383][510]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset
+[2018.04.16-07.36.26:808][883]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-07.36.26:816][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.36.26:817][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-07.36.26:817][883]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 15, 2018, 9:36:26 PM)
+[2018.04.16-07.36.26:817][883]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.16-07.36.26:831][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013719s)
+[2018.04.16-07.36.26:832][883]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.16-07.36.26:832][883]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2018.04.16-07.36.26:832][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015355s)
+[2018.04.16-07.36.26:868][883]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-07.36.26:875][883]LogInit: FAudioDevice initialized.
+[2018.04.16-07.36.26:908][883]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.16-07.36.26:910][883]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.16-02.36.26
+[2018.04.16-07.36.26:911][883]LogWorld: Bringing up level for play took: 0.001710
+[2018.04.16-07.36.26:912][883]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.797
+[2018.04.16-07.36.26:912][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.36.56:445][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.36.56:494][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.36.58:110][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.36.58:188][589]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-07.36.58:195][589]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.36.58:195][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-07.36.58:195][589]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 15, 2018, 9:36:58 PM)
+[2018.04.16-07.36.58:195][589]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.16-07.36.58:207][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012180s)
+[2018.04.16-07.36.58:208][589]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.16-07.36.58:208][589]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2018.04.16-07.36.58:208][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013478s)
+[2018.04.16-07.36.58:241][589]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-07.36.58:247][589]LogInit: FAudioDevice initialized.
+[2018.04.16-07.36.58:278][589]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.16-07.36.58:280][589]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.16-02.36.58
+[2018.04.16-07.36.58:280][589]LogWorld: Bringing up level for play took: 0.001525
+[2018.04.16-07.36.58:281][589]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.167
+[2018.04.16-07.36.58:281][589]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.37.41:705][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.37.41:753][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.37.42:704][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.37.42:956][121]LogSavePackage: Save=119.68ms
+[2018.04.16-07.37.42:956][121]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonExampleMapBC2CF44742102FF5E18149A9CF49C698.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.16-07.37.42:960][121]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.16-07.37.43:181][121]LogSavePackage: Save=202.32ms
+[2018.04.16-07.37.43:181][121]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonExampleMap_BuiltDataF2AC6D464C022EEBEE285495D212312B.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.16-07.37.43:183][121]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.16-07.37.52:512][930]LogSavePackage: Save=122.80ms
+[2018.04.16-07.37.52:512][930]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonExampleMap40FF15DB471B3DB35FEC8EAD49607821.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.16-07.37.52:515][930]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.16-07.37.52:639][930]LogSavePackage: Save=110.70ms
+[2018.04.16-07.37.52:639][930]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonExampleMap_BuiltData3E8E09424143285EEE31DE9726AEBB65.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.16-07.37.52:641][930]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.16-07.39.36:609][547]BlueprintLog: New page: Compile RunCharacter
+[2018.04.16-07.39.37:337][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2018.04.16-07.39.37:381][565]LogSavePackage: Save=41.75ms
+[2018.04.16-07.39.37:381][565]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/RunCharacter9A50A1BE4EDABE0041AC74BAFA45E37D.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2018.04.16-07.39.37:384][565]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset
+[2018.04.16-07.40.02:980][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2018.04.16-07.40.03:013][325]LogSavePackage: Save=30.71ms
+[2018.04.16-07.40.03:013][325]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/RunCharacterA8819E7E4DA1E58BF03950B002C8D0BA.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2018.04.16-07.40.03:014][325]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset
+[2018.04.16-07.40.06:195][604]LogSavePackage: Save=139.85ms
+[2018.04.16-07.40.06:195][604]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonExampleMap9892FC91454715F29604B3B351F1B28B.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.16-07.40.06:199][604]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.16-07.40.06:207][604]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.251
+[2018.04.16-07.40.11:084][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-07.40.11:107][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.11:107][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-07.40.11:107][ 13]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 15, 2018, 9:40:11 PM)
+[2018.04.16-07.40.11:107][ 13]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.16-07.40.11:120][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012308s)
+[2018.04.16-07.40.11:121][ 13]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.16-07.40.11:121][ 13]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2018.04.16-07.40.11:121][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013477s)
+[2018.04.16-07.40.11:155][ 13]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-07.40.11:162][ 13]LogInit: FAudioDevice initialized.
+[2018.04.16-07.40.11:194][ 13]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.16-07.40.11:196][ 13]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.16-02.40.11
+[2018.04.16-07.40.11:196][ 13]LogWorld: Bringing up level for play took: 0.001594
+[2018.04.16-07.40.11:197][ 13]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.082
+[2018.04.16-07.40.11:197][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.17:903][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.17:940][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.19:364][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.40.19:455][985]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-07.40.19:462][985]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.19:462][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-07.40.19:462][985]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 15, 2018, 9:40:19 PM)
+[2018.04.16-07.40.19:463][985]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.16-07.40.19:475][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012858s)
+[2018.04.16-07.40.19:476][985]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.16-07.40.19:476][985]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2018.04.16-07.40.19:477][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014065s)
+[2018.04.16-07.40.19:511][985]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-07.40.19:518][985]LogInit: FAudioDevice initialized.
+[2018.04.16-07.40.19:552][985]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.16-07.40.19:554][985]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.16-02.40.19
+[2018.04.16-07.40.19:554][985]LogWorld: Bringing up level for play took: 0.001836
+[2018.04.16-07.40.19:555][985]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.559
+[2018.04.16-07.40.19:555][985]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.24:592][583]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.24:628][583]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.26:331][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.40.26:422][792]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-07.40.26:428][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.26:429][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-07.40.26:429][792]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 15, 2018, 9:40:26 PM)
+[2018.04.16-07.40.26:429][792]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.16-07.40.26:440][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011401s)
+[2018.04.16-07.40.26:441][792]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.16-07.40.26:441][792]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2018.04.16-07.40.26:441][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012497s)
+[2018.04.16-07.40.26:474][792]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-07.40.26:481][792]LogInit: FAudioDevice initialized.
+[2018.04.16-07.40.26:509][792]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.16-07.40.26:511][792]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.16-02.40.26
+[2018.04.16-07.40.26:511][792]LogWorld: Bringing up level for play took: 0.001585
+[2018.04.16-07.40.26:512][792]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.398
+[2018.04.16-07.40.26:512][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.32:137][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.32:174][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.34:275][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.16-07.40.36:356][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.16-07.40.37:863][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.40.37:947][114]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-07.40.37:954][114]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.37:954][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-07.40.37:954][114]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 15, 2018, 9:40:37 PM)
+[2018.04.16-07.40.37:954][114]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.16-07.40.37:967][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012657s)
+[2018.04.16-07.40.37:968][114]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.16-07.40.37:968][114]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2018.04.16-07.40.37:968][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013953s)
+[2018.04.16-07.40.38:002][114]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-07.40.38:009][114]LogInit: FAudioDevice initialized.
+[2018.04.16-07.40.38:041][114]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.16-07.40.38:043][114]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.16-02.40.38
+[2018.04.16-07.40.38:043][114]LogWorld: Bringing up level for play took: 0.001666
+[2018.04.16-07.40.38:044][114]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.07
+[2018.04.16-07.40.38:044][114]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.44:897][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.44:932][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-07.40.52:690][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.40.58:112][948]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.04.16-07.45.54:442][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.47.21:635][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.47.49:255][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.47.59:704][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.48.16:315][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.48.56:689][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.16-07.49.59:608][482]BlueprintLog: New page: Compile BP_FloorTile
+[2018.04.16-07.50.00:283][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_FloorTile" FILE="C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset" SILENT=true
+[2018.04.16-07.50.00:301][515]LogSavePackage: Save=17.20ms
+[2018.04.16-07.50.00:301][515]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTileD7341C9F44E90E4FD6CFE6B54C74A566.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset'
+[2018.04.16-07.50.00:303][515]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset
+[2018.04.16-07.50.57:535][772]BlueprintLog: New page: Compile BP_FloorTile
+[2018.04.16-07.50.58:138][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_FloorTile" FILE="C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset" SILENT=true
+[2018.04.16-07.50.58:162][804]LogSavePackage: Save=18.16ms
+[2018.04.16-07.50.58:162][804]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTileEB9C0EC24C0BCF172DD395873BED4922.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset'
+[2018.04.16-07.50.58:165][804]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset
+[2018.04.16-07.51.14:841][534]LogSlate: Window 'Save Content' being destroyed
+[2018.04.16-07.51.14:872][534]LogSavePackage: Save=4.78ms
+[2018.04.16-07.51.14:872][534]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/ThirdPersonGameModeCAE62B1D491564B3CEE345918064FC26.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.04.16-07.51.14:875][534]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.04.16-07.52.06:452][604]LogSlate: Window 'Save Content' being destroyed
+[2018.04.16-07.52.06:573][604]LogSavePackage: Save=3.84ms
+[2018.04.16-07.52.06:573][604]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/EndlessRunnerF72BEDB34A59FE5356FD5D914FE1B963.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/EndlessRunner.umap'
+[2018.04.16-07.52.06:575][604]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/EndlessRunner.umap
+[2018.04.16-07.52.06:575][604]LogFileHelpers: Saving map 'EndlessRunner' took 0.112
+[2018.04.16-07.52.06:596][604]Cmd: MAP LOAD FILE="C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/EndlessRunner.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.16-07.52.06:596][604]LightingResults: New page: Lighting Build
+[2018.04.16-07.52.06:597][604]LoadErrors: New page: Loading map: EndlessRunner.umap
+[2018.04.16-07.52.06:678][604]MapCheck: New page: Map Check
+[2018.04.16-07.52.06:678][604]LightingResults: New page: Lighting Build
+[2018.04.16-07.52.06:709][604]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.16-07.52.06:709][604]LogAIModule: Creating AISystem for world EndlessRunner
+[2018.04.16-07.52.06:742][604]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.16-07.52.06:808][604]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.298ms to complete.
+[2018.04.16-07.52.06:810][604]LogFileHelpers: Loading map 'EndlessRunner' took 0.234
+[2018.04.16-07.52.15:595][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.52.24:566][794]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.16-07.52.24:649][794]LogSlate: Window 'BP_FloorTile' being destroyed
+[2018.04.16-07.52.24:670][794]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.16-07.52.24:749][794]LightingResults: New page: Lighting Build
+[2018.04.16-07.52.24:750][794]MapCheck: New page: Map Check
+[2018.04.16-07.52.24:750][794]LightingResults: New page: Lighting Build
+[2018.04.16-07.52.24:773][794]LogAIModule: Creating AISystem for world Untitled
+[2018.04.16-07.52.24:786][794]LoadErrors: New page: New Map
+[2018.04.16-07.52.24:789][794]LogAIModule: Creating AISystem for world EndlessRunner
+[2018.04.16-07.52.31:417][992]LogSlate: Window 'New Level' being destroyed
+[2018.04.16-07.52.31:425][992]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.16-07.52.31:445][992]LightingResults: New page: Lighting Build
+[2018.04.16-07.52.31:446][992]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.04.16-07.52.31:448][992]MapCheck: New page: Map Check
+[2018.04.16-07.52.31:448][992]LightingResults: New page: Lighting Build
+[2018.04.16-07.52.31:520][992]LogAIModule: Creating AISystem for world Untitled_2
+[2018.04.16-07.52.31:526][992]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.16-07.52.31:551][992]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.16-07.52.31:621][992]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.479ms to complete.
+[2018.04.16-07.52.31:621][992]LogFileHelpers: Loading map 'Template_Default' took 0.197
+[2018.04.16-07.53.30:667][888]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.04.16-07.53.30:667][888]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RunGameMode.SKEL_RunGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.04.16-07.53.30:684][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2018.04.16-07.53.30:689][888]LogSavePackage: Save=3.99ms
+[2018.04.16-07.53.30:689][888]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/RunGameMode1938BB6649FF351BC7C5DFA4F4203C06.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2018.04.16-07.53.30:692][888]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2018.04.16-07.53.42:051][560]LogSlate: Window 'RunGameMode' being destroyed
+[2018.04.16-07.54.31:622][163]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.16-07.55.08:768][623]BlueprintLog: New page: Compile RunGameMode
+[2018.04.16-07.57.31:993][651]BlueprintLog: New page: Compile RunGameMode
+[2018.04.16-07.57.32:660][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2018.04.16-07.57.32:674][703]LogSavePackage: Save=11.39ms
+[2018.04.16-07.57.32:675][703]LogSavePackage: Moving 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Saved/RunGameMode2DC95FC943B539BFDC3F4EB384D6E4C0.tmp' to 'C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2018.04.16-07.57.32:677][703]LogSavePackage: Display: Finished SavePackage C:/Users/troyn/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2018.04.16-07.57.44:494][305]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-07.57.44:505][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-07.57.44:505][305]PIE: New page: PIE session: Untitled_2 (Apr 15, 2018, 9:57:44 PM)
+[2018.04.16-07.57.44:505][305]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2018.04.16-07.57.44:508][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002732s)
+[2018.04.16-07.57.44:508][305]LogAIModule: Creating AISystem for world Untitled_2
+[2018.04.16-07.57.44:509][305]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2018.04.16-07.57.44:509][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.003697s)
+[2018.04.16-07.57.44:541][305]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-07.57.44:547][305]LogInit: FAudioDevice initialized.
+[2018.04.16-07.57.44:579][305]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.04.16-07.57.44:579][305]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.04.16-07.57.44:580][305]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2018.04.16-07.57.44:580][305]LogLoad: Game class is 'GameModeBase'
+[2018.04.16-07.57.44:580][305]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2018.04.16-02.57.44
+[2018.04.16-07.57.44:581][305]LogWorld: Bringing up level for play took: 0.000551
+[2018.04.16-07.57.44:631][305]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 0.517
+[2018.04.16-07.58.11:954][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.58.17:455][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-07.58.17:554][119]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-07.58.17:564][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-07.58.17:564][119]PIE: New page: PIE session: Untitled_2 (Apr 15, 2018, 9:58:17 PM)
+[2018.04.16-07.58.17:564][119]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2018.04.16-07.58.17:566][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001515s)
+[2018.04.16-07.58.17:567][119]LogAIModule: Creating AISystem for world Untitled_2
+[2018.04.16-07.58.17:567][119]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2018.04.16-07.58.17:567][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.002534s)
+[2018.04.16-07.58.17:599][119]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-07.58.17:608][119]LogInit: FAudioDevice initialized.
+[2018.04.16-07.58.17:641][119]LogLoad: Game class is 'GameModeBase'
+[2018.04.16-07.58.17:642][119]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2018.04.16-02.58.17
+[2018.04.16-07.58.17:642][119]LogWorld: Bringing up level for play took: 0.000474
+[2018.04.16-07.58.17:643][119]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 -0.472
+[2018.04.16-07.58.41:787][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
